@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SummaryScape</string>
+    <string name="yt_link">YouTube Link</string>
+    <string name="summary_btn">Get Summary</string>
+    <string name="summarized_vid">Video Player</string>
+<!--    <string name="mediaControls">Media Controls</string>-->
+</resources>

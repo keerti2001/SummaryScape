@@ -1,0 +1,8 @@
+### Requirements
+flask
+pysrt
+imageio==2.4.1
+youtube_dl
+nltk
+moviepy
+sumy
